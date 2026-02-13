@@ -221,9 +221,6 @@ tomcat-ssl/
 │   ├── main/
 │   │   ├── java/org/superbiz/tomcatssl/
 │   │   │   └── CertInfoServlet.java                # Servlet displaying all SSL properties
-│   │   └── webapp/
-│   │       ├── WEB-INF/web.xml
-│   │       └── index.jsp
 │   └── test/
 │       └── conf/
 │           └── server.xml                           # Tomcat config with mTLS enabled
